@@ -7,8 +7,8 @@ db.createCollection("empDetails")
 db.empDetails.insert({Name:"Mohan",Age:30,Email:"mohan@gmail.com",Salary:5000})
 db.empDetails.insert({Name:"Raju",Age:35,Email:"raju@gmail.com",Salary:7000})
 db.empDetails.insert({Name:"Bhuvan",Age:25,Email:"bhuvan@gmail.com",Salary:10000})
-db.empDetails.insert({Name:"Dilsha",Age:27,Email:"dinu@gmail.com",salary:9000})
-db.empDetails.insert({Name:"Harsha",Age:28,Email:"anu@gmail.com",salary:15000})
+db.empDetails.insert({Name:"Athira",Age:27,Email:"aadhi@gmail.com",salary:9000})
+db.empDetails.insert({Name:"Krish",Age:28,Email:"krish@gmail.com",salary:15000})
 
 /*------------------------------------------------------------------------------------------*/
 
